@@ -10,3 +10,4 @@ else
 fi
 unzip -o war3maps060920.zip -d maps/
 sudo cp -R maps/. /usr/local/ghost/maps/
+
